@@ -1,15 +1,13 @@
 # Flow Works
-
-Welcome to Flow Works!
+> Welcome to Flow Works!
 
 We are a fun and dynamic team of devs working on cutting-edge proxy and webOS solutions.
 
-## Projects
-
-1. **FlowOS**: Our flagship proxy/webOS.
-
-## Get Involved
-
-Join our coding party! Fork our repositories and contribute!
+## Developers
+@ieatchimkin
+@akanefr
+@proudparrot2
+@alphabet.os
+@1nspird_
 
 Let's shape the future of webOS's together!
